@@ -1,3 +1,9 @@
+// Sistema de Soporte Tecnico Empresarial - SaludConecta IPS
+// Como ejecutarlo: abrir una terminal en la carpeta donde esta este archivo y escribir:
+//     java SoporteSaludConecta.java
+// (si tiene Java 8 primero se compila con: javac SoporteSaludConecta.java
+//  y luego se ejecuta con: java SoporteSaludConecta)
+
 import java.util.ArrayList; // para la lista de empleados y la de equipos
 import java.util.LinkedList; // la uso para crear la cola
 import java.util.Queue; // tipo de dato de la cola de pendientes
