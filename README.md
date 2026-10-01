@@ -11,7 +11,10 @@ Programa en Java por consola que usa:
 
 ## Como ejecutarlo
 
+Desde la terminal, en la carpeta del archivo:
+
 ```
-javac SoporteSaludConecta.java
-java SoporteSaludConecta
+java SoporteSaludConecta.java
 ```
+
+(Con Java 8 se usa `javac SoporteSaludConecta.java` y luego `java SoporteSaludConecta`.)
